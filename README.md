@@ -29,12 +29,14 @@ TBD
 All browsers choose different approaches to highlight sub-parts of the URL in the address bar and have slightly different approaches for indicating a security downgrade.
 
 [Browser URL bars](/img/Brow_PosAddressbar.png)
+
 [Browser URL bars downgrade](/img/Brow_DownGradeIndication.png)
 
 ### Conceptual Models for error pages
 
 #### Firefox
 [Overridable Error](/img/Brow_ConceptualModelFFOverridable.pdf)
+
 [Critical Error](/img/Brow_ConceptualModelFFCriticalError.pdf)
 
 
@@ -69,4 +71,5 @@ All browsers choose different approaches to highlight sub-parts of the URL in th
 ### E-Mails from Alice
 
 [First email](/pdf/Experiment_Text.pdf)
+
 [Second email](/pdf/Experiment_Text2.pdf)
